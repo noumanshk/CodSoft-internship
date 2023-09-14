@@ -1,0 +1,40 @@
+body{
+    background-color: #E6E6E6!important;
+}
+.white-color{
+
+    color: #44576D!important;
+    font-size: 20px;
+    
+}
+.logo{
+    font-size:25px ;
+    color: #44576D!important;
+    font-weight: bold;
+    
+}
+.heading{
+    font-size: 50px;
+    color: #44576D!important;
+    font-weight: bold;
+}
+.img-cart{
+    width: 70%;
+    height: 70%;
+}
+.btn{
+    padding: 8px;
+    background-color: #44576D!important;
+    color: white!important;
+    border-radius: 25px;;
+}
+.project-img{
+    width: 350px;
+    height: 400px;
+}
+.img.logo{
+    color: #44576D;
+}
+.footer{
+    background-color:  #44576D!important;
+}
